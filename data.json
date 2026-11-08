@@ -1,0 +1,28 @@
+{
+  "name": "ธีริทธิ์ มลอยู่พะเนา",
+  "title": "Information Technology Student",
+  "education": "Bangkok University",
+  "about": "นักศึกษาคณะเทคโนโลยีสารสนเทศ มีความสนใจในการพัฒนาระบบฐานข้อมูล การวิเคราะห์ข้อมูล และการออกแบบ UI/UX ชอบการแก้ปัญหาด้วยการสร้างโครงร่างระบบอย่างเป็นขั้นตอน",
+  "skills": [
+    "SQL / MS SQL Server",
+    "Power BI",
+    "Bubble.io",
+    "AppSheet",
+    "Figma",
+    "HTML / CSS / JavaScript"
+  ],
+  "projects": [
+    {
+      "name": "E-commerce Web Application",
+      "description": "ระบบร้านค้าออนไลน์ พัฒนาด้วย Bubble.io จัดการฐานข้อมูลสินค้า โครงสร้างตะกร้าสินค้า และสถานะการสั่งซื้อ"
+    },
+    {
+      "name": "Sales Analysis Dashboard",
+      "description": "รายงานวิเคราะห์ข้อมูลการขายด้วย Power BI สร้าง DAX measure เพื่อประมวลผลข้อมูลเชิงลึกและจัดรูปแบบ Visual Display"
+    },
+    {
+      "name": "Interactive UI Prototype",
+      "description": "ออกแบบส่วนต่อประสานผู้ใช้ผ่าน Figma โดยใช้ระบบ Auto Layout และ Component Variants"
+    }
+  ]
+}
